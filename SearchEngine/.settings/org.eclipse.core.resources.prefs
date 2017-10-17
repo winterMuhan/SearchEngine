@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/beifen.py=utf-8
+encoding//src/index.py=utf-8
+encoding//src/spider/htmlDownload.py=utf-8
+encoding//src/spider/htmlparser.py=utf-8
+encoding//src/spider/mainSpider.py=utf-8
+encoding//src/spider/saveDate.py=utf-8
+encoding//src/spider/urlManage.py=utf-8
+encoding//src/sql/config.py=utf-8
+encoding//src/sql/v9_news.py=utf-8
+encoding//src/sql/v9_news_data.py=utf-8
+encoding/<project>=UTF-8
